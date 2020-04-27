@@ -1,15 +1,15 @@
-name: example-environment
+name: environment
 channels:
   - conda-forge
   - default
 dependencies:
   - numpy
-  - psutil
+  - bqplot
   - toolz
   - matplotlib
-  - dill
+  - ipywidgets
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - seaborn
+  
+  
   
