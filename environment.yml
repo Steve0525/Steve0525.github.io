@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - ipywidgets
   - pandas
-  - nbinteract
   - seaborn
   
   
